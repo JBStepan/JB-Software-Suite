@@ -2,6 +2,6 @@ Copyright (c) JB Stepan 2020. All rights Reserved.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-If you would to help with the debugging and devolpment, e-mail me at: jb.stepan1@gmail.com
+If you want to help with the debugging and devolpment of JBSS, e-mail me at: jb.stepan1@gmail.com
 
 Disclaimer: This license can and will change through the course of devolpment
