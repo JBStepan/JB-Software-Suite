@@ -1,0 +1,10 @@
+C:\Users\wayne\Desktop\Jakob 2\Programing\C++ and C#\The JB Software Suite (JBSS)\JBwebBrowser\JBwebBrowser\bin\Debug\JBwebBrowser.exe.config
+C:\Users\wayne\Desktop\Jakob 2\Programing\C++ and C#\The JB Software Suite (JBSS)\JBwebBrowser\JBwebBrowser\bin\Debug\JBwebBrowser.exe
+C:\Users\wayne\Desktop\Jakob 2\Programing\C++ and C#\The JB Software Suite (JBSS)\JBwebBrowser\JBwebBrowser\bin\Debug\JBwebBrowser.pdb
+C:\Users\wayne\Desktop\Jakob 2\Programing\C++ and C#\The JB Software Suite (JBSS)\JBwebBrowser\JBwebBrowser\obj\Debug\JBwebBrowser.csprojAssemblyReference.cache
+C:\Users\wayne\Desktop\Jakob 2\Programing\C++ and C#\The JB Software Suite (JBSS)\JBwebBrowser\JBwebBrowser\obj\Debug\JBwebBrowser.Form1.resources
+C:\Users\wayne\Desktop\Jakob 2\Programing\C++ and C#\The JB Software Suite (JBSS)\JBwebBrowser\JBwebBrowser\obj\Debug\JBwebBrowser.Properties.Resources.resources
+C:\Users\wayne\Desktop\Jakob 2\Programing\C++ and C#\The JB Software Suite (JBSS)\JBwebBrowser\JBwebBrowser\obj\Debug\JBwebBrowser.csproj.GenerateResource.cache
+C:\Users\wayne\Desktop\Jakob 2\Programing\C++ and C#\The JB Software Suite (JBSS)\JBwebBrowser\JBwebBrowser\obj\Debug\JBwebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\wayne\Desktop\Jakob 2\Programing\C++ and C#\The JB Software Suite (JBSS)\JBwebBrowser\JBwebBrowser\obj\Debug\JBwebBrowser.exe
+C:\Users\wayne\Desktop\Jakob 2\Programing\C++ and C#\The JB Software Suite (JBSS)\JBwebBrowser\JBwebBrowser\obj\Debug\JBwebBrowser.pdb
