@@ -13,6 +13,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows.Forms.VisualStyles;
 
 namespace JBWordProsessor
 {
@@ -74,38 +75,64 @@ namespace JBWordProsessor
         }
         #endregion
 
-        // sets saving for menustrip save
+        /// sets saving for menustrip save
         private void newToolStripMenuItem_Click(object sender, EventArgs e)
         {
             SaveFile();
         }
 
-        // sets button for opening
+        /// sets button for opening
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Openfile();
         }
 
-        // sets exit button in the menu strip
+        /// sets exit button in the menu strip
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        // Makes about messagebox show
+        /// Makes about messagebox show
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MessageBox.Show("This is the JB Word Prosessor part of the JB Software Suite. Made by JB stepan", "About", MessageBoxButtons.OK);
         }
 
+        /// When the window loads display message
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("This is a Alpha version of the JBSS Word Prosessor, this does not reflect the final look of the app ;)", "Saving Our Asses", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
+        /// clears whar ever is in the richtextbox
         private void clearToolStripMenuItem_Click(object sender, EventArgs e)
         {
             rtb1.Clear();
+        }
+
+        /// Enable wordwrap
+        private void enWordWrapToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            // If the wordwrap is checked enable wordwrap
+            if ( enWordWrap.Checked == true )
+            {
+                rtb1.WordWrap = true;
+            }
+            // else if its not, then disable wordwrap
+            else if (enWordWrap.Checked == false)
+            {
+                rtb1.WordWrap = false;
+            }
+        }
+
+        /// New window
+        private void newToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            // Creates new intence of the method
+            Form1 form2 = new Form1();
+            // the shows it
+            form2.Show();
         }
     }
 }
