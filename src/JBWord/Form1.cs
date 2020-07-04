@@ -96,12 +96,6 @@ namespace JBWordProsessor
             this.Close();
         }
 
-        /// Makes about messagebox show
-        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("This is the JB Word Prosessor part of the JB Software Suite. Made by JB stepan", "About", MessageBoxButtons.OK);
-        }
-
         /// When the window loads display message
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -155,6 +149,23 @@ namespace JBWordProsessor
             {
                 docToPrint.Print();
             }
+        }
+
+        private void fontToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fontDialog1.Font = rtb1.Font;
+            fontDialog1.Color = rtb1.ForeColor;
+
+            if (fontDialog1.ShowDialog() != DialogResult.Cancel)
+            {
+                rtb1.Font = fontDialog1.Font;
+                rtb1.ForeColor = fontDialog1.Color;
+            }
+        }
+
+        private void aboutToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
