@@ -1,3 +1,5 @@
+### License (JBL-1)
+
 Copyright (c) JB Stepan 2020. All rights Reserved.
 
 No such persons can: build from source, make edits to such source code, download and charge, or download edit and charge without permission from JB
